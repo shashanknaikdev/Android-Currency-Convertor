@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        
+    <item android:id="@+id/How_To"
+          android:icon="@drawable/ic_menu_help_holo_light"
+          android:title="How To" />
+    <item android:id="@+id/Credits"
+          android:icon="@drawable/ic_menu_star"
+          android:title="Credits" />
+    
+</menu>

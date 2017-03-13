@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Currency Convertor</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_currency_main">Currency Convertor</string>
+	<string name="how_to_text"><b>Layout and Conversion</b>\nThis app contains a simple layout. The first thing you notice is the 2 scroll wheels in the center. \nUse the left wheel to set the currency which you want to convert and use the right wheel to set the currency you want it to be converted to. \nUse the Input box above the left wheel to enter the amount to be converted.\nThe result will be displayed below the wheel.\n<b>Updating Rates</b>\nThe app stores the rates in a database. The values can be updated from online sources(requires data connection) by pressing the "Update Rates" button.\nIn any conversion the most recently updated values in the database will be used.</string>
+	<string name="credit_text"><b>Developer:</b>\nShashank Naik\n\n\n<b>Special Credits:</b>\n"Android Wheel Control" by Yuri Kanivets \n<i>http://android-devblog.blogspot.com/2010/05/wheel-ui-contol.html</i> \nLicensed under the Apache License, Version 2.0 \n<i>http://www.apache.org/licenses/LICENSE-2.0</i></string>
+</resources>
